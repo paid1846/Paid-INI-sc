@@ -1,0 +1,96 @@
+paidini - feature list
+======================
+
+INI
+---
+INI Presets
+  - Normal INI
+  - Hard INI
+  - FPS+ (Potato)
+Graphics
+  - Fullbright
+  - No Water
+  - No XYZ
+  - No Trees / Rocks
+  - Remove Particles
+  - Stalker Vision (with range)
+Field of View
+  - Custom FOV
+Game Filter
+  - Vibrance, Saturation, Contrast, Brightness, Gamma, Temperature, Sharpen
+  - Reset button
+
+DINO
+----
+Dino Care
+  - Auto Saddle (with range)
+  - Auto Imprint
+  - Auto Name (with range, option to rename already named dinos)
+  - Auto Claim
+  - Auto Neuter (with range)
+  - Auto Level (points per stat: health, stamina, oxygen, food, weight, melee, speed, crafting)
+Eggs & Cloning
+  - Auto Clone (with range)
+  - Auto Fill Cloning Chamber
+  - Auto Pickup Eggs
+  - Auto Transfer Eggs
+  - Auto Hatch Eggs
+
+HUD
+---
+Armor HUD
+  - Shows your equipped armor with durability, count or percent
+  - Scale, position and text size all adjustable
+Custom Crosshair
+  - Styles: Classic, Cross, Dot, X
+  - Size, thickness, gap, opacity, colour
+Info HUD
+  - Watermark, FPS, Ping, Server FPS, Connected Players
+  - Nearby Turrets (option to include friendly ones)
+  - Inventory Slots, Server Name
+  - Scale and rainbow colour mode
+Tek Rifle Indicator
+  - Shows what you're aiming at, its health and if it's in tek rifle range
+  - Range, scale and position adjustable, option to show with any weapon
+Awesome Spyglass
+  - Aim at anything (dinos, players, structures, bodies, bags) and get a panel with its info
+  - Dinos: level, tribe, sex, colours, health, torpor, stats + points, imprint, mutations, baby age, taming progress
+  - Players: name, tribe, what they're holding, health, torpor, knocked out / sleeping
+  - Structures: owner, health, offline timer, locked, item count
+  - Bodies and bags: decompose timer
+  - Lock key to stick the panel to a target until it leaves render
+  - ARK styled background, scale and position adjustable
+
+MISC
+----
+Quick Pickup
+  - Instant structure pickup, optional key
+Structure Snapping
+  - Snap structures beside the one you're looking at, adjustable gap
+  - Arrow keys to rotate and change the gap
+Auto Forge
+  - Deposit Gas, Deposit Metal, Pull Metal, Pull Metal To Dedi, Turn On Forges
+Inventory
+  - Better Input (faster drop / transfer / use while holding the key)
+Take All
+  - Takes everything from whatever you open, or on a key
+Turrets
+  - Turret Filler (tops up heavies and tek turrets you walk past, set the amount)
+  - Show Turret Fill (full / not full markers on your turrets, plus a counter)
+Chat
+  - Chat Bypass (turns off the Xbox chat filter)
+
+SETTINGS
+--------
+Menu
+  - Menu colours
+  - Interface size
+  - Menu background effect
+  - Eject
+Configs
+  - Save, load, create and delete configs
+
+OTHER
+-----
+  - Crash guard for some of ARK's own UI crashes, plus a crash log
+  - Menu closes itself cleanly if you disconnect or change server
